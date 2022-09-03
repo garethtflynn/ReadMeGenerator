@@ -1,5 +1,4 @@
 // variables that require all the necessary files and the command line interface
-// const { fstat } = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown') 
 const { writeFile } = require('fs').promises;
