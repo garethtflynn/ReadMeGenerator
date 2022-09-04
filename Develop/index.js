@@ -32,9 +32,9 @@ const questions = () => {
         message: 'What type of license should your project have?',
         choices:[
             'mit',
-            'apache-2.0', 
+            'apache2.0', 
             'unlicense', 
-            'mpl-2.0', 
+            'mpl2.0', 
             'None'
         ]
     },

@@ -13,11 +13,11 @@ function generateMarkdown(answers) {
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation 
-  ${answers.answersinstallation}
+  ${answers.installation}
   ## Usage
   ${answers.usage}
   ## License 
-  This project is licensed under the ${answers.license} license. Find out more about it at https://choosealicense.com/licenses/${answers.license}
+  This project is licensed under the ${answers.license} license. Find out more about it at https://choosealicense.com/licenses/
   ## Contributing 
   ${answers.contributing}
   ## Tests
