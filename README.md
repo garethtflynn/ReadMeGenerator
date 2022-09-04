@@ -23,7 +23,7 @@ In order to use this application, the user must first install the Node Package M
 
 ## Screenshots/Visuals
 
-![App Screenshot]()
+![App Screenshot](/Develop/utils/readme.gif)
 
 ## Technology
 
