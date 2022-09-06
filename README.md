@@ -55,4 +55,4 @@ If you have any questions please email me at gareth.t.flynn@gmail.com
 
 ## Link 
 
-(https://garethtflynn.github.io/ReadMeGenerator/)
+(https://github.com/garethtflynn/ReadMeGenerator)
